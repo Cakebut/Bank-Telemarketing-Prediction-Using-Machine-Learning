@@ -2,7 +2,7 @@
 This is a classification task in machine learning, where a Portuguese bank seeks to identify customers who are likely to subscribe to a term deposit
 
 
-Dataset
+# Dataset
 Input variables:
 
 
@@ -53,3 +53,7 @@ Output variable (desired target):
 21 - y - has the client subscribed a term deposit? (binary: 'yes','no')
 
 Source:https://archive.ics.uci.edu/dataset/222/bank+marketing
+
+
+# Project Definition
+The classification goal is to predict if a client will subscribe to the bank term deposit (yes/no).
