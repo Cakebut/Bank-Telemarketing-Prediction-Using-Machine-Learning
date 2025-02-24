@@ -4,6 +4,8 @@ This is a classification task in machine learning, where a Portuguese bank seeks
 
 Dataset
 Input variables:
+
+
 1 - age (numeric)
 
 2 - job : type of job (categorical: 'admin.','blue-collar','entrepreneur','housemaid','management','retired','self-employed','services','student','technician','unemployed','unknown')
